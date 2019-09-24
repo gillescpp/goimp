@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ganony/goimp"
+	"github.com/gillescpp/goimp"
 )
 
 func main() {
